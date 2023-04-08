@@ -6,4 +6,4 @@
 <br>
 <p>- HTML</p>
 <p>- CSS</p>
-<img src="https://github.com/vivian-rocha/desafio-we-care-mobile/blob/main/img-mobile.PNG?raw=true />
+<img src="https://github.com/vivian-rocha/desafio-we-care-mobile/blob/main/img-mobile.PNG?raw=true" />
